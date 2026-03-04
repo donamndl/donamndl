@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I’m Dona</h1>
+<h1 align="center">Hi 👋, I'm Dona</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+%26+ML+Enthusiast;Flask+%7C+Django+%7C+Python;Building+Real-World+Projects" />
+  </a>
+</p>
 
 <h3 align="center">Backend Developer | Data & AI Enthusiast</h3>
 
