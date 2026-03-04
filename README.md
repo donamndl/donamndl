@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight" />
 </p>
 
-  ### 🛠 Languages and Tools:
+## 🛠 Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,django,mongodb,mysql,nodejs,react,git,postman" />
 </p>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
-  ### 🌐 Connect With Me:
+## 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/dona01">
     <img src="https://img.shields.io/badge/LinkedIn-Dona%20Mondal-blue?style=for-the-badge&logo=linkedin" />
