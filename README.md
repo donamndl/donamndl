@@ -11,6 +11,13 @@
 - 💬 Ask me about Python, Django, Flask, AI & ML
 - 📫 Reach me through: donamndl125@gmail.com
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donamnd1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donamnd1&theme=tokyonight" />
+</p>
+
   ### Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" />
