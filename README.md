@@ -20,7 +20,7 @@
 
   ### 🛠 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,mongodb,mysql,nodejs,react,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,jupyternotebook,flask,django,mongodb,mysql,colab,nodejs,react,git,postman" />
 </p>
 
   ### 🌐 Connect With Me:
