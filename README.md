@@ -20,7 +20,11 @@
 
   ### 🛠 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,jupyternotebook,flask,django,mongodb,mysql,colab,nodejs,react,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,django,mongodb,mysql,nodejs,react,git,postman" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
   ### 🌐 Connect With Me:
