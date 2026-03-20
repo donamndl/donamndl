@@ -31,7 +31,6 @@ Built APIs to return credit score, approval level, and prediction results based 
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> |
 
-
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/dona01">
