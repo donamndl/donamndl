@@ -22,17 +22,7 @@ Designed and developed a backend system for credit risk assessment using Flask a
 Implemented a hybrid approach combining rule-based scorecard logic with a machine learning model to predict default probability.  
 Built APIs to return credit score, approval level, and prediction results based on user financial data.
 
-## 🛠 Languages and Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,django,mongodb,mysql,nodejs,react,git,postman" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
-  <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
-
-## 🛠️ Skills Matrix
-
+## 🛠️ Skills:
 | Category   | Technologies |
 |------------|--------------|
 | **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,java"/> |
