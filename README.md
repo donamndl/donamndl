@@ -40,7 +40,8 @@ Built APIs to return credit score, approval level, and prediction results based 
 | **Frontend** |<img src="https://skillicons.dev/icons?i=nodejs,react"/>|
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql"/> |
 | **AI/ML** | scikit-learn, LangChain, pandas |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,postman"/>, <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter"/>, <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>|
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,postman"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>|
 
 
 ## 🌐 Connect With Me:
