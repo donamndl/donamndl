@@ -17,6 +17,26 @@
 </p>
 
 ## 🚀 Projects:
+### Loan Default Prediction System
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+- Designed a backend system for **credit risk assessment** using Flask + MongoDB.  
+- Implemented a **hybrid model**: rule-based scorecard + ML (Random Forest).  
+- Built REST APIs to return **credit score, approval level, and default probability**.  
+- Achieved **AUC = 0.87** on 50k+ records.  
+
+---
+
+### 🤖 GenAI Knowledge Platform (Hack<N>Pitch’25 Finalist)
+**Tech Stack:** LangChain, Next.js, ChromaDB, Gemini Pro API
+
+- Built a localized knowledge platform using **LLMs + vector databases**.  
+- Designed intuitive frontend with **Next.js** and backend APIs for query handling.  
+- Finalist at Hack<N>Pitch’25.  
+
+## 🚀 Projects:
 ### 🏦 Loan Default Prediction System
 Designed and developed a backend system for credit risk assessment using Flask and MongoDB.  
 Implemented a hybrid approach combining rule-based scorecard logic with a machine learning model to predict default probability.  
