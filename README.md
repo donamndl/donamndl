@@ -31,6 +31,19 @@ Built APIs to return credit score, approval level, and prediction results based 
   <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
+## 🛠️ Skills Matrix
+
+| Category   | Technologies |
+|------------|--------------|
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
+| **Frontend** | React, Next.js |
+| **Databases** | MongoDB, MySQL |
+| **AI/ML** | scikit-learn, LangChain, pandas |
+| **Tools** | Git, Postman, Jupyter, Colab |
+
+
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/dona01">
