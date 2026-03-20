@@ -35,7 +35,7 @@ Built APIs to return credit score, approval level, and prediction results based 
 
 | Category   | Technologies |
 |------------|--------------|
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>|
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,flask,django"/>|
 | **Frontend** | React, Next.js |
 | **Databases** | MongoDB, MySQL |
 | **AI/ML** | scikit-learn, LangChain, pandas |
