@@ -35,11 +35,12 @@ Built APIs to return credit score, approval level, and prediction results based 
 
 | Category   | Technologies |
 |------------|--------------|
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,java"|
 | **Backend** | <img src="https://skillicons.dev/icons?i=python,flask,django"/>|
-| **Frontend** | React, Next.js |
-| **Databases** | MongoDB, MySQL |
+| **Frontend** |<img src="https://skillicons.dev/icons?i=nodejs,react"/>|
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql"|
 | **AI/ML** | scikit-learn, LangChain, pandas |
-| **Tools** | Git, Postman, Jupyter, Colab |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,postman, <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter, <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>|
 
 
 ## 🌐 Connect With Me:
