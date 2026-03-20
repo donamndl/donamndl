@@ -39,7 +39,6 @@ Built APIs to return credit score, approval level, and prediction results based 
 | **Backend** | <img src="https://skillicons.dev/icons?i=flask,django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> |
 | **Frontend** |<img src="https://skillicons.dev/icons?i=nodejs,react"/>|
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql"/> |
-| **AI/ML** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> |
 
 
