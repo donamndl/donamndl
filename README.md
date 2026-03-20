@@ -16,6 +16,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight" />
 </p>
 
+## 🚀 Projects:
+### 🏦 Loan Default Prediction System
+Designed and developed a backend system for credit risk assessment using Flask and MongoDB.  
+Implemented a hybrid approach combining rule-based scorecard logic with a machine learning model to predict default probability.  
+Built APIs to return credit score, approval level, and prediction results based on user financial data.
+
 ## 🛠 Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,django,mongodb,mysql,nodejs,react,git,postman" />
