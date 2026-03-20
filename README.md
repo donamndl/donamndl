@@ -36,12 +36,6 @@
 - Designed intuitive frontend with **Next.js** and backend APIs for query handling.  
 - Finalist at Hack<N>Pitch’25.  
 
-## 🚀 Projects:
-### 🏦 Loan Default Prediction System
-Designed and developed a backend system for credit risk assessment using Flask and MongoDB.  
-Implemented a hybrid approach combining rule-based scorecard logic with a machine learning model to predict default probability.  
-Built APIs to return credit score, approval level, and prediction results based on user financial data.
-
 ## 🛠️ Skills:
 | Category   | Technologies |
 |------------|--------------|
