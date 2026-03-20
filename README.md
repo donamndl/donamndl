@@ -30,7 +30,7 @@
 ---
 
 ### 🤖 GenAI Knowledge Platform (Hack<N>Pitch’25 Finalist)
-**Tech Stack:** LangChain, Next.js, ChromaDB, Gemini Pro API
+**Tech Stack:** ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=flat&logo=database&logoColor=white) ![Gemini Pro API](https://img.shields.io/badge/Gemini%20Pro%20API-4285F4?style=flat&logo=google&logoColor=white)
 
 - Built a localized knowledge platform using **LLMs + vector databases**.  
 - Designed intuitive frontend with **Next.js** and backend APIs for query handling.  
