@@ -36,6 +36,8 @@
 - Designed intuitive frontend with **Next.js** and backend APIs for query handling.  
 - Finalist at Hack<N>Pitch’25.  
 
+---
+
 ## 🛠️ Skills:
 | Category   | Technologies |
 |------------|--------------|
