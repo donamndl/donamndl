@@ -16,6 +16,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight" />
 </p>
 
+---
+
 ## 🚀 Projects:
 ### Loan Default Prediction System
 **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
