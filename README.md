@@ -8,7 +8,7 @@
 
 - 🔭 Working on Python & ML projects
 - 🌱 Currently exploring Large Language Models and Blockchain
-- 💬 Ask me about Python, Django, Flask, AI & ML
+- 💬 Ask me about Python, Django, AI & ML
 - 📫 Reach me through: donamndl125@gmail.com
 
 ---
