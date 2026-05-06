@@ -47,7 +47,11 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=flask,django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> |
 | **Frontend** |<img src="https://skillicons.dev/icons?i=nodejs,react"/>|
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> |
+| **Tools** | 
+<img src="https://skillicons.dev/icons?i=git,postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> 
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> |
+
 
 ---
 
