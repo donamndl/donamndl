@@ -91,4 +91,3 @@ Built a localized AI-powered knowledge platform using LLMs and vector databases.
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-```
