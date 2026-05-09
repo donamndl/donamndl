@@ -18,19 +18,24 @@ Backend Developer • AI & ML Enthusiast • Building Intelligent Systems
 
 ## 💡 About Me
 
+```python
 class DonaMondal:
+
     role = "Backend Developer"
+    
     interests = [
         "Artificial Intelligence",
         "Machine Learning",
         "Backend Systems",
         "LLM Applications"
     ]
+
     currently_building = [
         "Credit Risk Assessment Systems",
         "AI-Powered Platforms",
         "REST APIs"
     ]
+````
 
 ---
 
