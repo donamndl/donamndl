@@ -12,11 +12,24 @@
 ---
 
 ### 📊 GitHub Dashboard
-<p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donamndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      </td>
+      <td width="50%" align="center">
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donamndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight&hide_border=true&background=0D1117" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
