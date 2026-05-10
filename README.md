@@ -50,9 +50,3 @@
 - ⚙️ Specialized in **Scalable Backend Architectures** and **MLOps**.
 - 🔐 Expert in building secure authentication systems using **JWT** and **OAuth**.
 - 🌱 Currently deep-diving into **LLM Orchestration** and **Vector Databases**.
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400" />
-</p>
