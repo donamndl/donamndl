@@ -17,15 +17,15 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" />
       </td>
       <td width="50%" align="center">
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donamndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donamndl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight&hide_border=true&background=0D1117" />
+        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight&hide_border=true&background=0D1117&v=1" />
       </td>
     </tr>
   </table>
