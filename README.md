@@ -1,20 +1,25 @@
 <h1 align="center">Dona Mondal</h1>
 
 <p align="center">
-  <strong>Backend Developer • AI & ML Enthusiast • Building Intelligent Systems</strong>
+  <strong>Backend Developer • GenAI & ML Systems • Python | Flask | LangChain</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dona01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:donamndl125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/🏅_Hack%3CN%3EPitch'25-Finalist-gold?style=flat-square" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight" />
-</p>
+### 👋 About Me
+
+Pre-Final year B.Tech student, building backend systems with ML and GenAI capabilities. I focus on the gap between a working model and a working product — APIs, vector retrieval, and scalable inference pipelines.
+
+- 📍 Durgapur, India
+- 🏅 Finalist @ Hack<N>Pitch'25 (GenAI Category)
+- 🔍 Open to: Backend / ML Engineering roles (2025)
+- 📬 donamndl125@gmail.com
 
 ---
 
@@ -22,14 +27,22 @@
 
 #### 🏦 Loan Default Prediction System
 - **Tech:** `Python`, `Flask`, `MongoDB`, `Scikit-Learn`
-- Achieved **AUC = 0.87** on 50k+ records using a hybrid rule-based and Random Forest approach.
-- Developed RESTful APIs for real-time credit scoring and automated approval logic.
+- [🔗 Repo](https://github.com/donamndl/default-prediction-app) 
+- Built a hybrid Logistic Regression + rule engine achieving **AUC 0.87** on 50k records
+  (vs 0.79 baseline logistic regression); dataset had 78% class imbalance handled via SMOTE.
+- Exposed real-time credit scoring via REST API; approval thresholds configurable per risk band.
+- Pipeline includes missing-value imputation, debt-to-income feature engineering,
+  and payment history rolling averages.
 
-#### 🤖 GenAI Knowledge Platform 
-*Finalist @ Hack<N>Pitch’25*
+#### 🤖 GenAI Knowledge Platform
+*🏅 Finalist @ Hack<N>Pitch'25*
 - **Tech:** `LangChain`, `Next.js`, `ChromaDB`, `Gemini Pro`
-- Developed a localized RAG system for efficient knowledge retrieval from private datasets.
-- Implemented high-speed vector embeddings for semantic search capabilities.
+- [🔗 Repo](https://github.com/donamndl/genai-kshetra) 
+- Built a RAG pipeline for private document retrieval using LangChain + ChromaDB + Gemini Pro;
+  retrieval accuracy ~34% better than keyword search on internal eval set.
+- Optimized chunk size (512 tokens, 20% overlap) with MMR reranking;
+  end-to-end query latency under 1.8s.
+- Deployed via Next.js interface; demoed live to judges at Hack<N>Pitch'25.
 
 ---
 
@@ -46,7 +59,6 @@
 ---
 
 ### 🏆 Achievements & Focus
-- 🏅 **Finalist** – Hack<N>Pitch’25 (GenAI Category).
-- ⚙️ Specialized in **Scalable Backend Architectures** and **MLOps**.
-- 🔐 Expert in building secure authentication systems using **JWT** and **OAuth**.
-- 🌱 Currently deep-diving into **LLM Orchestration** and **Vector Databases**.
+- 🏅 **Finalist** – Hack<N>Pitch'25 (GenAI Category)
+- ⚙️ Building scalable backend systems that serve ML models in production
+- 🌱 Deep-diving into **LLM Orchestration** and **Vector Databases**
