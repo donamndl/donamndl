@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dona01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:donamndl125@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/🏅_Hack%3CN%3EPitch'25-Finalist-gold?style=flat-square" />
 </p>
 
 ---
@@ -17,7 +16,6 @@
 Pre-Final year B.Tech student, building backend systems with ML and GenAI capabilities. I focus on the gap between a working model and a working product — APIs, vector retrieval, and scalable inference pipelines.
 
 - 📍 Durgapur, India
-- 🏅 Finalist @ Hack<N>Pitch'25 (GenAI Category)
 - 🔍 Open to: Backend / ML Engineering roles (2025)
 - 📬 donamndl125@gmail.com
 
