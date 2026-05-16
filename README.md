@@ -36,6 +36,7 @@ I build production-style APIs, ML-integrated services, and backend systems with 
 - **Tech:** `Java`, `JDBC`, `MySQL`
 - [🔗 Repo](https://github.com/donamndl/student-management) 
 - Java-based CRUD application using JDBC and MySQL for managing student records.
+- Practicing authentication and exception handling patterns.
 
 ---
 
@@ -53,5 +54,6 @@ I build production-style APIs, ML-integrated services, and backend systems with 
 
 ### 🏆 Achievements & Focus
 - 🏅 **Finalist** – Hack<N>Pitch'25 (GenAI Category)
-- ⚙️ Building scalable backend systems that serve ML models in production
-- 🌱 Deep-diving into **LLM Orchestration** and **Vector Databases**
+- ⚙️ Building scalable backend systems using Python and Java
+- 🌱 Exploring distributed backend systems, API design, and microservices architecture
+- 🤖 Interested in GenAI integration with backend services
