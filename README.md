@@ -1,7 +1,7 @@
 <h1 align="center">Dona Mondal</h1>
 
 <p align="center">
-  <strong>Backend Developer • GenAI & ML Systems • Python | Flask | LangChain</strong>
+  <strong>Backend Developer • Python & Java • Scalable Systems & API Development</strong>
 </p>
 
 <p align="center">
