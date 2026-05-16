@@ -13,10 +13,10 @@
 
 ### 👋 About Me
 
-Pre-Final year B.Tech student, building backend systems with ML and GenAI capabilities. I focus on the gap between a working model and a working product — APIs, vector retrieval, and scalable inference pipelines.
-
+Pre-Final year B.Tech student focused on Backend Engineering and Scalable System Design using Java and Python.
+I build production-style APIs, ML-integrated services, and backend systems with a focus on performance, modular architecture, and real-world deployment.
 - 📍 Durgapur, India
-- 🔍 Open to: Backend / ML Engineering roles (2025)
+- 🔍 Open to: Backend roles
 - 📬 donamndl125@gmail.com
 
 ---
@@ -32,15 +32,10 @@ Pre-Final year B.Tech student, building backend systems with ML and GenAI capabi
 - Pipeline includes missing-value imputation, debt-to-income feature engineering,
   and payment history rolling averages.
 
-#### 🤖 GenAI Knowledge Platform
-*🏅 Finalist @ Hack<N>Pitch'25*
-- **Tech:** `LangChain`, `Next.js`, `ChromaDB`, `Gemini Pro`
-- [🔗 Repo](https://github.com/donamndl/genai-kshetra) 
-- Built a RAG pipeline for private document retrieval using LangChain + ChromaDB + Gemini Pro;
-  retrieval accuracy ~34% better than keyword search on internal eval set.
-- Optimized chunk size (512 tokens, 20% overlap) with MMR reranking;
-  end-to-end query latency under 1.8s.
-- Deployed via Next.js interface; demoed live to judges at Hack<N>Pitch'25.
+#### 🤖 Student Management System
+- **Tech:** `Java`, `JDBC`, `MySQL`
+- [🔗 Repo](https://github.com/donamndl/student-management) 
+- Java-based CRUD application using JDBC and MySQL for managing student records.
 
 ---
 
