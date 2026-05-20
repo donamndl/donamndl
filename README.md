@@ -24,14 +24,14 @@ Building production-style APIs, ML-integrated services, and backend systems with
 ### 🚀 Featured Projects
 
 #### 🏦 Loan Default Prediction System
-- **Tech:** `Python`, `Flask`, `MongoDB`, `Scikit-Learn` [🔗 Repo](https://github.com/donamndl/default-prediction-app) 
+- **Tech:** `Python`, `Flask`, `MongoDB`, `Scikit-Learn` [[🔗 Repo](https://github.com/donamndl/default-prediction-app)]
 - Built a hybrid Logistic Regression + rule engine achieving **AUC 0.87** on 50k records
   (vs 0.79 baseline logistic regression); dataset had 78% class imbalance handled via SMOTE.
 - Exposed real-time credit scoring via REST API; approval thresholds configurable per risk band.
 - Pipeline includes missing-value imputation, debt-to-income feature engineering and payment history rolling averages.
 
 #### 🤖 Student Management System
-- **Tech:** `Java`, `JDBC`, `MySQL` [🔗 Repo](https://github.com/donamndl/student-management)
+- **Tech:** `Java`, `JDBC`, `MySQL` [[🔗 Repo](https://github.com/donamndl/student-management)]
 - Java-based CRUD application using JDBC and MySQL for managing student records.
 - Practicing authentication and exception handling patterns.
 
