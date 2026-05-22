@@ -50,7 +50,7 @@ Building production-style APIs, ML-integrated services, and backend systems with
 ---
 
 ### 🏆 Achievements & Focus
-- 🏅 **Finalist** – Hack<N>Pitch'25 (GenAI Category) & Innovathon 3.0
+- 🏅 **Finalist** – HackNPitch'25 (GenAI Category) & Innovathon 3.0
 - ⚙️ Building scalable backend systems using Python and Java
 - 🌱 Exploring distributed backend systems, API design, and microservices architecture
 - 🤖 Interested in GenAI integration with backend services
