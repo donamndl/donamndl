@@ -50,7 +50,8 @@ Building production-style APIs, ML-integrated services, and backend systems with
 ---
 
 ### 🏆 Achievements & Focus
-- 🏅 **Finalist** – HackNPitch'25, Jadavpur University Kolkata(GenAI Category) & Innovathon 3.0, BIT Sindri, Dhanbad 
-- ⚙️ Building scalable backend systems using Python and Java
+- 🏅 Finalist — HackNPitch'25 (GenAI Track)
+- 🏅 Finalist — Innovathon 3.0, BIT Sindri
+- 💻 Built AI-powered backend applications using Python & Flask
 - 🌱 Exploring distributed backend systems, API design, and microservices architecture
 - 🤖 Interested in GenAI integration with backend services
