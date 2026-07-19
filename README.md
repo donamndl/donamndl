@@ -15,7 +15,7 @@
 Pre-Final Year B.Tech student focused on Backend Engineering and Scalable System Design using Java and Python.
 Building production-style APIs, ML-integrated services, and backend systems with a focus on performance, modular architecture, and real-world deployment.
 - 📍 Durgapur, India
-- 🔍 Open to: Backend Roles
+- 🔍 Open to: Backend & AIML Roles
 - 📬 donamndl125@gmail.com
 
 ---
